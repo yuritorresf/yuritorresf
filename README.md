@@ -17,8 +17,8 @@ Me chamo Yuri e sou desenvolvedor a mais de 5 anos. Atualmente sou especializado
 #
 ## 📊 GitHub status
 ![](https://github-readme-stats.vercel.app/api?username=yuritorresf&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yuritorresf&theme=city_light&hide_border=false&locale=pt-br)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuritorresf&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=pt-br)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yuritorresf&hide_border=false&locale=pt-br)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuritorresf&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br)
 
 ## 🏆 Meus troféus do GitHub 
 ![](https://github-profile-trophy.vercel.app/?username=yuritorresf&locale=pt-br&theme=flat&no-frame=true&no-bg=false&margin-w=4)
